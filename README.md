@@ -1,2 +1,2 @@
-# restaurant-finder
+# restaurant-finder-backend
 Restaurant finder app
